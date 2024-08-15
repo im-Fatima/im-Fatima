@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Fatima!
 
-<!--
-**Minji-lil/Minji-lil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Self-taught Software Engineer sharing about my journey and projects <br/>
+📚 Studying electronics engineering at Ned University of Engineering and Technology in Pakistan <br/>
+🎥 Making Videos about Electronics, Programming and Tech <br/>
+🔭 I’m currently working on game development with C++ <br/>
+🚀 Beginner at Machine Learning and Deep Learning <br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
