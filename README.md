@@ -6,6 +6,9 @@
 🔭 I’m currently working on game development with C++ <br/>
 🚀 Beginner at Machine Learning and Deep Learning <br/>
 
+<!--Github stats-->
+https://github.com/Minji-lil/github-readme-stats
+
 
 
 
