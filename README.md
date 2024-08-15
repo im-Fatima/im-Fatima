@@ -7,7 +7,8 @@
 🚀 Beginner at Machine Learning and Deep Learning <br/>
 
 <!--Github stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minji-lil)](https://github.com/Minji-lil/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minji-lil&show_icons=true&theme=gruvbox)
 
 
 
