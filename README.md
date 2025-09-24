@@ -2,7 +2,7 @@
 👩‍💻 Self-taught programmer sharing about my journey and projects<br>
 📚 Studying electronics engineering at Ned University of Engineering and Technology<br>
 🎥 Making Videos about Electronics, Programming and Tech<br>
-🚀 Beginner at Machine Learning and Deep Learning
+🚀 Still a beginner at Machine Learning and Deep Learning
 
 
 # 💻 Tech Stack
